@@ -1,0 +1,5 @@
+{
+  "name": "Novel Navigator AI",
+  "description": "An AI-powered agent that recommends novels based on a series of questions. It also features a general-purpose chatbot for any other inquiries.",
+  "requestFramePermissions": []
+}
